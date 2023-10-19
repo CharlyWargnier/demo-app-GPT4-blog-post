@@ -1,5 +1,5 @@
 
-# My Streamlit App
+# My Streamlit Demo App
 
 This repository contains a demo Streamlit application, serving as an illustrative example for the accompanying blog post.
 
